@@ -10,7 +10,13 @@ This project is built in Google Colab for easy reproducibility and learning.
 - 🖼️ Image processing and feature extraction
 - 📊 Data visualization and evaluation
 - 💡 Beginner-friendly Google Colab code blocks
-# Dataaet
+# Repository Structure
+   landslide detection folder
+    - landslide_detection.ipynb.py
+    - landslide_model.pkl
+    -  scaler.pkl
+    - regenerated_landslide_dataset
+# Dataset
 - Source: [Kaggle - Landslide Dataset](https://www.kaggle.com/datasets/sreeragunandha/landslide-prediction-dataset)
 - Features -Temperature (°C) ,Humidity (%) ,Precipitation (mm),Soil Moisture (%),Elevation (m),Landslide Risk
 # Project link for reference
