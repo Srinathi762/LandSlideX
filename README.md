@@ -29,9 +29,9 @@ landslide-detection-project/
 # Project link for reference
  Demonstration Video- (https://drive.google.com/file/d/1IEIZGJ9rRCk4qP0kAVBbqbRrcmFmLp8J/view?usp=drive_link)
  Screenshots - Confusion Matrix (https://drive.google.com/file/d/19YS4QVFMfW36e_JxtZZn11mH6oJW8sh5/view?usp=sharing)
-             - Correlation (https://drive.google.com/file/d/1bBDMU6DJeWXDOx4e0DMl1Sp0iQMFZ6e0/view?usp=sharing)
-             - ROC Curve (https://drive.google.com/file/d/1MFec4NPkvXxTJEQeqd4dWRtdolWzmTL8/view?usp=sharing)
-             - Learning Curve (https://drive.google.com/file/d/1weSMsymnyY1l3A5HwGY0CnmFPUEB7jOA/view?usp=sharing)
+ - Correlation (https://drive.google.com/file/d/1bBDMU6DJeWXDOx4e0DMl1Sp0iQMFZ6e0/view?usp=sharing)
+ - ROC Curve (https://drive.google.com/file/d/1MFec4NPkvXxTJEQeqd4dWRtdolWzmTL8/view?usp=sharing)
+ - Learning Curve (https://drive.google.com/file/d/1weSMsymnyY1l3A5HwGY0CnmFPUEB7jOA/view?usp=sharing)
 # Results
 Accuracy Score: 0.9976
 
