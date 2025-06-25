@@ -38,11 +38,11 @@ Accuracy Score: 0.9976
 Classification Report:
                precision    recall  f1-score   support
 
-        High      1.00      0.95      0.97        19
+          High      1.00      0.95      0.97        19
          Low       1.00      1.00      1.00      1128
     Moderate       0.99      0.98      0.99       102
-   Very High       1.00      1.00      1.00         1
+     Very High       1.00      1.00      1.00         1
 
     accuracy                           1.00      1250
-   macro avg       1.00      0.98      0.99      1250
-weighted avg       1.00      1.00      1.00      1250
+    macro avg       1.00      0.98      0.99      1250
+     weighted avg       1.00      1.00      1.00      1250
